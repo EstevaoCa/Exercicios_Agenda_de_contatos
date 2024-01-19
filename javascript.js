@@ -15,8 +15,7 @@ form.addEventListener('submit', function(e) {
 function adicionarLinha() {
 
   if (nome.includes(inputNome.value) || telefone.includes(parseInt(inputTelefone.value  ))) {
-    
-    alert(`O nome: ${inputNomeAtividade.value} ja foi inserida`);
+    alert(`O nome:  ${inputNome.value} ou  ${inputTelefone.value}  ja foi inserida`);
   } else {
     nome.push(inputNome.value);
     telefone.push(parseInt(inputTelefone.value));
