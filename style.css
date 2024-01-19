@@ -18,7 +18,7 @@ h1{
 }
 form input{
   border: none;
-  border-bottom: solid 1px red;
+  border-bottom: solid 1px black;
   margin-bottom: 8px;
   padding: 8px 0;
 }
