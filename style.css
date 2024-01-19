@@ -6,7 +6,7 @@ font-family: 'Roboto', sans-serif;*/
   padding: 0;
   box-sizing: border-box;
   text-align: center;
-  font-size: 24px;
+  font-size: 25px;
   background-color: #E8E8E8;
   font-family: 'Open Sans', sans-serif;
   color: #383D71;
@@ -15,6 +15,9 @@ font-family: 'Roboto', sans-serif;*/
   max-width: 960px;
   width: 100%;
   margin: 0 auto;
+  padding: 30px;
+  border-radius: 30px;
+  border: 1px solid black;
 }
 
 h1{
