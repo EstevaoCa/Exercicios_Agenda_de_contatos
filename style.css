@@ -1,10 +1,15 @@
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   background-color: #E8E8E8;
+  font-family: 'Open Sans', sans-serif;
+  color: #383D71;
 }
 .conteiner{
   max-width: 960px;
@@ -15,6 +20,7 @@
 h1{
   padding: 16px;
   font-size: 34px;
+  font-family: 'Roboto', sans-serif;
 }
 form input{
   border: none;
